@@ -7,4 +7,4 @@
 
 
 
-  [![Christy's github stats](https://github-readme-stats.vercel.app/api?username=shinecoding&theme=graywhite&show_icons=true)]
+![Christy's github stats](https://github-readme-stats.vercel.app/api?username=shinecoding&theme=material-palenight&show_icons=true)
