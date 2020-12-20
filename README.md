@@ -6,3 +6,4 @@
 - 💚 한국어 / English(TOEIC 990) / 日本語(JLPT N2) / Español(Spanglish)
 
 
+  [![Christy's github stats](https://github-readme-stats.vercel.app/api?username=shinecoding)](https://github.com/anuraghazra/github-readme-stats)
