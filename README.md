@@ -9,5 +9,3 @@
 
 ![Christy's github stats](https://github-readme-stats.vercel.app/api?username=shinecoding&theme=material-palenight&show_icons=true)
 
-## Get In Touch
-<a href="https://twitter.com/shinecoding"><img src="https://img.shields.io/badge/#000000?style=flat-square&logo=twitter&logoColor=white&link=shinecoding"/></a>&nbsp
