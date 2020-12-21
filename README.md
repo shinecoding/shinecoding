@@ -6,6 +6,8 @@
 - 🌎 한국어 / English(TOEIC 990) / 日本語(JLPT N2) / Español(Spanglish)
 
 
+### Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://shinecoding.github.io/]
 
 ![Christy's github stats](https://github-readme-stats.vercel.app/api?username=shinecoding&theme=material-palenight&show_icons=true)
 
