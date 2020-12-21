@@ -8,7 +8,8 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://shinecoding.github.io/]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[https://twitter.com/shinecoding]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/shinecoding]
 
+<br/>
 ![Christy's github stats](https://github-readme-stats.vercel.app/api?username=shinecoding&theme=material-palenight&show_icons=true)
 
