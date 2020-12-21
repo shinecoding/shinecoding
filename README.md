@@ -6,10 +6,11 @@
 - 🌎 한국어 / English(TOEIC 990) / 日本語(JLPT N2) / Español(Spanglish)
 
 
-### Connect with me:
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://shinecoding.github.io/]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/shinecoding]
 
-<br/>
 ![Christy's github stats](https://github-readme-stats.vercel.app/api?username=shinecoding&theme=material-palenight&show_icons=true)
 
+### Connect with me:
+[<img align="left" alt="shinecoding.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shinecoding.github.io/)
+[<img align="left" alt="twitter.com/shinecoding" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shinecoding)
+
+<br/>
