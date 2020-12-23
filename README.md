@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Christy
 
 - ⚡ I’m currently learning Java
-- 🎯 2021 Goal : acquire ability to make complete web application of my own
+- 🎯 2021 Goal : acquire ability to make complete web/mobile application of my own
 - 🚀 I lived in US, UK, Japan, Germany, New Zealand and travelled 25+ countries
 - 🌎 한국어 / English(TOEIC 990) / 日本語(JLPT N2) / Español(Spanglish)
 
