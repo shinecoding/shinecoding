@@ -14,6 +14,4 @@
 
 ### Connect with me:
 [<img align="left" alt="shinecoding.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shinecoding.github.io/)
-[<img align="left" alt="twitter.com/shinecoding" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/shinecoding)
 [<img align="left" alt="christychoi.dev@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:christychoi.dev@gmail.com)
-[<img align="left" alt="Christy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christy-choi-dev/)
