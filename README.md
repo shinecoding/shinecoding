@@ -13,5 +13,5 @@
 
 
 ### Connect with me:
-[<img align="left" alt="shinecoding.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shinecoding.github.io/)
+[<img align="left" alt="shinecoding.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://christychoi.hashnode.dev/)
 [<img align="left" alt="christychoi.dev@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:christychoi.dev@gmail.com)
