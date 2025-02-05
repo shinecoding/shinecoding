@@ -9,6 +9,7 @@
 <br/>
 
 ![Christy's github stats](https://github-readme-stats.vercel.app/api?username=shinecoding&theme=material-palenight&show_icons=true)
+<br/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shinecoding?font=Mulish)
 
  
