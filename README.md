@@ -2,7 +2,7 @@
 
 - ⚡ I’m a Software Developer
 - 🎓 Master's in Computer Science
-- 🎯 2025 Goal : Complete my dissertation project
+- 🎯 2026 Goal : Launch my project
 - 🚀 I lived in US, UK, Japan, Germany, New Zealand and travelled 25+ countries
 - 🌎 한국어 / English(TOEIC 990) / 日本語(JLPT N2) / Español(Spanglish)
 
